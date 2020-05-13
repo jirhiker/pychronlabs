@@ -22,8 +22,8 @@ title: PychronLabs
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Software developement and consultating
-baseurl: "/pychronlabs" # the subpath of your site, e.g. /blog
-url: "https://jirhiker.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://pychronlabs.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jirhiker
 

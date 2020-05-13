@@ -1,5 +1,5 @@
 ---
-permalink: /services/training
+permalink: /services/training/
 layout: single
 author_profile: true
 sidebar:

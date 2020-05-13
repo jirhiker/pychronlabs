@@ -1,5 +1,5 @@
 ---
-permalink: /services/consulting
+permalink: /services/consulting/
 layout: single
 author_profile: true
 sidebar:

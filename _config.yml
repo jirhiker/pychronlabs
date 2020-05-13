@@ -32,8 +32,8 @@ github_username:  jirhiker
 
 # Build settings
 #theme: jekyll-theme-cayman
-#remote_theme: "mmistakes/minimal-mistakes@4.19.2"
-theme: 'minimal-mistakes-jekyll'
+remote_theme: "mmistakes/minimal-mistakes@4.19.2"
+#theme: 'minimal-mistakes-jekyll'
 plugins:
   - jekyll-include-cache
   - jekyll-feed

@@ -12,5 +12,19 @@ sidebar:
 
 PychronLabs LLC is the principal developer of the Pychron software suite.
 
+Clients
+================
+- New Mexico Geochronology Research Laboratory
+- University of Manitoba
+- University of Wisconsin, WiscAr
+- US Geological Survey - Denver, South West Isotope Research Laboratory
+- Lamont-Doherty Earth Observatory, AGES
+- US Geological Survey - Menlo Park
+- NASA - Goddard Space Flight Center, MNGRL
+- AEL-AMS, Ottawa
+- University of Arizona,  ANGL
+- Purdue University,  TAP
+
 - [Slack](https://nmgrl.slack.com)
 - [Github](https://github.com/NMGRL/pychron)
+

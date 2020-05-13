@@ -20,11 +20,11 @@
 
 title: PychronLabs
 name: Jake Ross
-logo: /assets/images/logo512.png
+logo: /assets/images/pychronlabslogo_v5.png
 
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Software developement and consulting
+  Software development and consulting
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://blog.pychronlabs.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -40,10 +40,16 @@ plugins:
   - jekyll-remote-theme
 
 
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum"
+minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum"
 
 include: ["_pages"]
 
+author:
+  name     : "Jake Ross"
+  avatar   : "/assets/images/bio.jpg"
+  bio      : "PychronLabs LLC Founder"
+  location : "Socorro NM, USA"
+  
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

@@ -4,20 +4,13 @@
 
 
 permalink: /
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: home
-      author_profile: true
+author_profile: true
+layout: home
 sidebar:
   nav: "docs"
 ---
 
 PychronLabs LLC is the principal developer of the Pychron software suite.
 
-asdf
 - [Slack](https://nmgrl.slack.com)
 - [Github](https://github.com/NMGRL/pychron)

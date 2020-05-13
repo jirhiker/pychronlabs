@@ -5,6 +5,7 @@
 layout: default
 ---
 
-sdfasceasdascs
-asdfas
-asdfascasc34rq34casc
+PychronLabs LLC is the principal developer of the Pychron software suite.
+
+- [Slack](nmgrl.slack.com)
+- [Github](github.com/NMGRL/pychron)

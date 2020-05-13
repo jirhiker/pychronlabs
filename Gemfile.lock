@@ -248,7 +248,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll (~> 3.3)
+  jekyll (~> 3.7)
   jekyll-feed (~> 0.12)
   jekyll-include-cache
   jekyll-remote-theme

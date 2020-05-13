@@ -13,10 +13,7 @@ main:
 #    url: /categories/
 #  - title: "Tags"
 #    url: /tags/
-  - title: "Pychron"
-    url: https://github.com/NMGRL/pychron
-  - title: "NMGRL"
-    url: https://geoinfo.nmt.edu/labs/argon/
+
     
 docs:
   - title: Services
@@ -28,3 +25,9 @@ docs:
       - title: "Consulting"
         url: /services/consulting/
 
+  - title: Links
+    children:
+      - title: "Pychron"
+        url: https://github.com/NMGRL/pychron
+      - title: "NMGRL"
+        url: https://geoinfo.nmt.edu/labs/argon/

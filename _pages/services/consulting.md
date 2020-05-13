@@ -9,3 +9,10 @@ sidebar:
 Consulting
 -----------
 
+Pychron Labs LLC provides consulting in the following areas
+ - python application development
+ - open data
+ - argon geochronology/noble gas mass spectrometry
+ 
+ Please [contact us](/contact/) for prices and more information
+

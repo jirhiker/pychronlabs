@@ -8,6 +8,13 @@ author_profile: true
 layout: home
 sidebar:
   nav: "docs"
+header:
+ overlay_filter: rgba(0, 150, 0, 0.5)
+ overlay_image: /assets/images/New_NMGRL_Pano2.jpeg
+ #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+ #actions:
+ # - label: "More Info"
+ #   url: "https://unsplash.com"
 ---
 
 PychronLabs LLC is the principal developer of the Pychron software suite.

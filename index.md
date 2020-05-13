@@ -7,5 +7,5 @@ layout: default
 
 PychronLabs LLC is the principal developer of the Pychron software suite.
 
-- [Slack](nmgrl.slack.com)
-- [Github](github.com/NMGRL/pychron)
+- [Slack](https://nmgrl.slack.com)
+- [Github](https://github.com/NMGRL/pychron)

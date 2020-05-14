@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: PychronLabs
-name: Jake Ross
 logo: /assets/images/pychronlabslogo_v5.png
 
 email: 
@@ -52,6 +51,14 @@ author:
   avatar   : "/assets/images/bio.jpg"
   bio      : "PychronLabs LLC Founder"
   location : "Socorro NM, USA"
+  email: jirhiker@gmail.com
+  links:
+    - label: "NMGRL Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/NMGRL"
+    - label: "Personal Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jirhiker"
 
 analytics:
   provider: "google-gtag"

@@ -7,6 +7,8 @@ main:
     url: /services/
   - title: "Products"
     url: /products/
+  - title: "Contact"
+    url: /contact/
 #  - title: "Posts"
 #    url: /year-archive/
 #  - title: "Categories"
@@ -35,3 +37,5 @@ docs:
         url: https://github.com/NMGRL/pychron
       - title: "NMGRL"
         url: https://geoinfo.nmt.edu/labs/argon/
+      - title: "Slack"
+        url: https://nmgrl.slack.com

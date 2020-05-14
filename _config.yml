@@ -65,7 +65,9 @@ collections:
   clients:
     output: true
     permalink: /:collection/:path/
-
+  pychron_components:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:

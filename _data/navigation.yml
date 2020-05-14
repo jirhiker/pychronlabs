@@ -18,6 +18,8 @@ main:
 docs:
   - title: Clients
     url: /clients/
+  - title: Pychron Components
+    url: /pychron_components/
   - title: Services
     children:
       - title: "Development"

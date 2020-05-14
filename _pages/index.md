@@ -12,8 +12,8 @@ PychronLabs LLC is the principal developer of the Pychron software suite.
 Clients
 ================
 - New Mexico Geochronology Research Laboratory
-- University of Manitoba
-- University of Wisconsin, WiscAr
+- [University of Manitoba](/clients/uman/)
+- [University of Wisconsin, WiscAr](/clients/wiscar/)
 - US Geological Survey - Denver, South West Isotope Research Laboratory
 - Lamont-Doherty Earth Observatory, AGES
 - US Geological Survey - Menlo Park

@@ -16,6 +16,8 @@ main:
 
     
 docs:
+  - title: Clients
+    url: /clients/
   - title: Services
     children:
       - title: "Development"

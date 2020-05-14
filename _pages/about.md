@@ -1,12 +1,6 @@
 ---
-
 permalink: /about/
 layout: single
-author_profile: true
-sidebar:
-  nav: "docs"
-header:
- overlay_image: /assets/images/New_NMGRL_Pano2.jpeg
 ---
 
 
